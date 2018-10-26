@@ -1,83 +1,83 @@
 let strings = {
 
     // Cadastro
-    entrarComEmail: 'Sign in with E-mail',
-    cadastro: 'Register',
-    senha: 'Password',
-    concluir: 'Finish',
-    preenchaOFormularioCorretamente: 'Please fill out the form correctly!',
+    entrarComEmail: 'Anmeldung mit E-Mail',
+    cadastro: 'Registrieren',
+    senha: 'Passwort',
+    concluir: 'Fertig',
+    preenchaOFormularioCorretamente: 'Bitte kontrolliere ob das Formular richtig ausgefüllt wurde!',
 
     // FBLogin
-    acessarComOFacebook: 'Sign in with Facebook',
-    aguarde: 'Wait a moment...',
+    acessarComOFacebook: 'Anmeldung mit Facebook',
+    aguarde: 'Einen Moment...',
 
     // Home
     musicasEmDestaque: 'Featured Songs',
-    artistasEmDestaque: 'Featured Artists',
-    atividadeRecente: 'Recent Activity',
-    escutou: 'listened to',
-    curtiu: 'liked',
-    aMusica: 'the song',
+    artistasEmDestaque: 'Featured Künstler',
+    atividadeRecente: 'Letzte Aktivität',
+    escutou: 'angehört',
+    curtiu: 'Mag ich',
+    aMusica: 'der Song',
 
     // Nav Bottom
-    home: 'Home',
-    buscar: 'Search',
-    explorar: 'Explore',
-    colecao: 'Collection',
-    perfil: 'Profile',
+    home: 'Start',
+    buscar: 'Suche', 
+    explorar: 'Durchsuchen',
+    colecao: 'Sammlung',
+    perfil: 'Profil',
 
     // Perfil
     nome: 'Name',
     email: 'E-mail',
-    sair: 'Log out',
-    instrumentoPrincipal: 'Main instrument',
-    guitarra: 'Guitar',
+    sair: 'Ausloggen',
+    instrumentoPrincipal: 'Hauptinstrument',
+    guitarra: 'Gitarre',
     baixo: 'Bass',
-    bateria: 'Drums',
-    voz: 'Vocal',
-    violao: 'Acoustic guitar',
-    avalieNaGooglePlay: 'Rate App',
-    editarPerfil: 'Edit profile',
-    faleConosco: 'Contact us',
-    comprarVersaoPremium: 'Buy Premium version',
-    removerAnuncios: 'Remove ads (Pro)',
+    bateria: 'Schlagzeug',
+    voz: 'Gesang',
+    violao: 'Akustikgitarre',
+    avalieNaGooglePlay: 'App bewerten',
+    editarPerfil: 'Profil ändern',
+    faleConosco: 'Kontakt',
+    comprarVersaoPremium: 'Kaufe die Premium Version',
+    removerAnuncios: 'Werbung entfernen (Pro)',
 
     //Meus Dados
-    sobreVoce: 'About you',
-    faleUmPoucoSobreVoce: 'Tell us a little about yourself',
-    localOndeMora: 'Location',
-    ondeVoceMora: 'Where do you live?',
-    digiteSeuUsername: 'Enter your username. Example: @backingtracksapp',
-    digiteSeuNumeroDeWhatsapp: 'Enter your WhatsApp number',
-    linkParaSeuCanalNoYoutube: 'Link to your YouTube channel',
-    canalNoYoutube: 'YouTube channel',
-    esteDadoNaoPodeSerEditado: 'This data can not be edited!',
+    sobreVoce: 'Über dich',
+    faleUmPoucoSobreVoce: 'Erzähle uns etwas über dich',
+    localOndeMora: 'Standort',
+    ondeVoceMora: 'Wo wohnst du?',
+    digiteSeuUsername: 'Benutzernamen eingeben. Beispiel: @backingtracksapp',
+    digiteSeuNumeroDeWhatsapp: 'Whatsapp Nummer eingeben',
+    linkParaSeuCanalNoYoutube: 'Verlinke deinen YouTube Kanal',
+    canalNoYoutube: 'YouTube Kanal',
+    esteDadoNaoPodeSerEditado: 'Diese Daten können nicht geändert werden!',
 
     // Editar
-    salvar: 'Save',
+    salvar: 'Speichern',
 
     // Fale conosco
-    porFavorExpliqueDetalhadamenteOSeuProblemaOuDuvida: 'Please explain in detail your problem or question.',
-    enviar: 'Send',
+    porFavorExpliqueDetalhadamenteOSeuProblemaOuDuvida: 'Bitte beschreibe dein Problem oder deine Frage im Detail.',
+    enviar: 'Senden',
 
     // Editar perfil
-    atualizeSeusDados: 'Update your info',
+    atualizeSeusDados: 'Aktualisiere deine Informationen',
 
     // Coleção
     musicasCurtidas: 'Loved Songs',
     
     // Música
-    para: 'for',
-    tonalidade: 'Key',
-    outrasMusicas: 'Other songs',
+    para: 'for',                    //ToDo
+    tonalidade: 'Key',              //ToDo
+    outrasMusicas: 'Andere songs',
 
     // Offline
-    voceEstaOffline: 'You are offline!',
-    verifiqueASuaConexaoComAInternetETenteNovamente: 'Check your internet connection and try again',
+    voceEstaOffline: 'Du bist Offline!',
+    verifiqueASuaConexaoComAInternetETenteNovamente: 'Überprüfe deine Internetverbindung und versuche es noch einmal',
 
     // Login
-    toqueSuasMusicasFavoritasComAcompanhamento: 'Play your favorite songs with accompaniment!',
-    facaLoginParaAproveitarOMaximoDoAplicativo: 'Sign in to get the most out of your app'
+    toqueSuasMusicasFavoritasComAcompanhamento: 'Spiele deinen Lieblingssong mit Begleitung!',
+    facaLoginParaAproveitarOMaximoDoAplicativo: 'Melde dich an um die App voll zu nutzen'
 }
 
 export default strings;
