@@ -140,7 +140,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |kn|Kannada| |
 |kn-IN|Kannada (India)| |
 |ko|Korean| |
-|ko-KR|Korean (Korea)| Bak-JH |
+|ko-KR|Korean (Korea)| @Bak-JH |
 |kok|Konkani| |
 |kok-IN|Konkani (India)| |
 |ky|Kyrgyz| |
