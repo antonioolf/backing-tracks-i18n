@@ -4,7 +4,7 @@ Internationalization files of Backing Tracks mobile app - http://play.google.com
 ## Contributing
 It would be great to find people willing to help with translations into other languages. Feel free to leave your contribution :)
 
-** Any translation is welcome! **
+**Any translation is welcome!**
 
 Choose a language and create (if it does not exist) its translation file named according to one of the ISO language codes from the table below. You can also help by improving some existing translation.
 
