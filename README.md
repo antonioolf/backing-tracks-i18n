@@ -1,5 +1,7 @@
 ## Backing Tracks i18n
-Internationalization files of Backing Tracks mobile app - http://play.google.com/store/apps/details?id=com.backing
+Internationalization files of Backing Tracks mobile app
+
+Download APP on google play: http://play.google.com/store/apps/details?id=com.backing
 
 ## Contributing
 It would be great to find people willing to help with translations into other languages. Feel free to leave your contribution :)
