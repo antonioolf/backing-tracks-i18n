@@ -69,7 +69,7 @@ let strings = {
     // Música
     para: 'for',                    //ToDo
     tonalidade: 'Key',              //ToDo
-    outrasMusicas: 'Andere songs',
+    outrasMusicas: 'Andere Songs',
 
     // Offline
     voceEstaOffline: 'Du bist Offline!',
