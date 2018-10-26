@@ -33,7 +33,7 @@ let strings = {
     instrumentoPrincipal: 'Hauptinstrument',
     guitarra: 'Gitarre',
     baixo: 'Bass',
-    bateria: 'Schalgzeug',
+    bateria: 'Schlagzeug',
     voz: 'Gesang',
     violao: 'Akustikgitarre',
     avalieNaGooglePlay: 'App Bewerten',
