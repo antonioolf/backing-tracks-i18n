@@ -1,0 +1,83 @@
+let strings = {
+
+    // Cadastro
+    entrarComEmail: 'Se connecter avec un email',
+    cadastro: 'S\'enregistrer',
+    senha: 'Mot de passe',
+    concluir: 'Terminer',
+    preenchaOFormularioCorretamente: 'Veuillez remplir le formulaire correctement !',
+
+    // FBLogin
+    acessarComOFacebook: 'Se connecter avec Facebook',
+    aguarde: 'Patientez...',
+
+    // Home
+    musicasEmDestaque: 'Musique à la une',
+    artistasEmDestaque: 'Artistes à la une',
+    atividadeRecente: 'Activité récente',
+    escutou: 'écoutées',
+    curtiu: 'aimées',
+    aMusica: 'la chanson',
+
+    // Nav Bottom
+    home: 'Acceuil',
+    buscar: 'Rechercher',
+    explorar: 'Explorer',
+    colecao: 'Collection',
+    perfil: 'Profil',
+
+    // Perfil
+    nome: 'Nom',
+    email: 'E-mail',
+    sair: 'Se déconnecter',
+    instrumentoPrincipal: 'Instrument principal',
+    guitarra: 'Guitar',
+    baixo: 'Basse',
+    bateria: 'Batterie',
+    voz: 'Voix',
+    violao: 'Guitare classique',
+    avalieNaGooglePlay: 'Évaluer l'application',
+    editarPerfil: 'Éditer le profil',
+    faleConosco: 'Nous contacter',
+    comprarVersaoPremium: 'Acheter la version Premium',
+    removerAnuncios: 'Supprimer les pubs (Pro)',
+
+    //Meus Dados
+    sobreVoce: 'À propos de vous',
+    faleUmPoucoSobreVoce: 'Parlez-nous de vous',
+    localOndeMora: 'Position',
+    ondeVoceMora: 'Où vivez-vous ?',
+    digiteSeuUsername: 'Entrez votre nom d'utilisateur. Exemple: @backingtracksapp',
+    digiteSeuNumeroDeWhatsapp: 'Entrez votre numéro WhatsApp',
+    linkParaSeuCanalNoYoutube: 'Lien vers votre chaîne YouTube',
+    canalNoYoutube: 'Chaîne YouTube',
+    esteDadoNaoPodeSerEditado: 'Cette donnée ne peux pas être éditée !',
+
+    // Editar
+    salvar: 'Sauvgrader',
+
+    // Fale conosco
+    porFavorExpliqueDetalhadamenteOSeuProblemaOuDuvida: 'Veuillez expliquer en détail votre problème ou question.',
+    enviar: 'Envoyer',
+
+    // Editar perfil
+    atualizeSeusDados: 'Mettre à jour vôtres informations',
+
+    // Coleção
+    musicasCurtidas: 'Chansons aimées',
+    
+    // Música
+    para: 'pour',
+    tonalidade: 'Clef',
+    outrasMusicas: 'Autres chansons',
+
+    // Offline
+    voceEstaOffline: 'Vous êtes hors ligne!',
+    verifiqueASuaConexaoComAInternetETenteNovamente: 'Vérifiez votre connexion internet et réessayez',
+
+    // Login
+    toqueSuasMusicasFavoritasComAcompanhamento: 'Jouez votre chanson favorite en étant accompagné !',
+    facaLoginParaAproveitarOMaximoDoAplicativo: 'Connectez-vous pour profiter au maximum de votre application'
+}
+
+export default strings;
