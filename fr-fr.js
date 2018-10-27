@@ -44,7 +44,7 @@ let strings = {
 
     //Meus Dados
     sobreVoce: 'À propos de vous',
-    faleUmPoucoSobreVoce: 'Parlez-vous un peu de vous',
+    faleUmPoucoSobreVoce: 'Parlez-nous un peu de vous',
     localOndeMora: 'Localisation',
     ondeVoceMora: 'Où habitez-vous ?',
     digiteSeuUsername: 'Votre nom d\'utilisateur. Exemple: @backingtracksapp',
