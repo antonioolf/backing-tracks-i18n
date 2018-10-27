@@ -1,7 +1,7 @@
 let strings = {
 
     // Cadastro
-    entrarComEmail: 'Se connecter à l\'aide courriel.',
+    entrarComEmail: 'Se connecter à l\'aide de l\'adresse courriel.',
     cadastro: 'Créer un compte',
     senha: 'Mot de passe',
     concluir: 's\'inscrire',
