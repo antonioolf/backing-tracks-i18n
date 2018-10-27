@@ -8,7 +8,7 @@ let strings = {
     preenchaOFormularioCorretamente: 'Merci de remplir les champs correctement!',
 
     // FBLogin
-    acessarComOFacebook: 'Se connecter à l\'aide de Facebook',
+    acessarComOFacebook: 'Se connecter à l\'aide de Facebook.',
     aguarde: 'Merci de patienter...',
 
     // Home
@@ -33,14 +33,14 @@ let strings = {
     instrumentoPrincipal: 'Instrument principal',
     guitarra: 'Guitare',
     baixo: 'Basse',
-    bateria: 'BAtterie',
+    bateria: 'Batterie',
     voz: 'Voix',
     violao: 'Guitare acoustique',
     avalieNaGooglePlay: 'Noter l\'application',
     editarPerfil: 'Modifier le profil',
     faleConosco: 'Nous contacter',
-    comprarVersaoPremium: 'Acheter la version Premium',
-    removerAnuncios: 'Masquer les publicités (Pro)',
+    comprarVersaoPremium: 'Acheter la version Premium.',
+    removerAnuncios: 'Masquer les publicités (Pro).',
 
     //Meus Dados
     sobreVoce: 'À propos de vous',
@@ -68,7 +68,7 @@ let strings = {
     
     // Música
     para: 'pour',
-    tonalidade: 'Slé',
+    tonalidade: 'Tonalité',
     outrasMusicas: 'Autres chansons',
 
     // Offline
@@ -77,7 +77,7 @@ let strings = {
 
     // Login
     toqueSuasMusicasFavoritasComAcompanhamento: 'Jouez vos morceaux favoris avec accompagnement!',
-    facaLoginParaAproveitarOMaximoDoAplicativo: 'Connectez-vous pour profiter de toute l\'application'
+    facaLoginParaAproveitarOMaximoDoAplicativo: 'Connectez-vous pour profiter de toute l\'application.'
 }
 
 export default strings;
