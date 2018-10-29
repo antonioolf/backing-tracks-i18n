@@ -15,7 +15,7 @@ let strings = {
     musicasEmDestaque: 'Избранные Песни',
     artistasEmDestaque: 'Избранные Исполнители',
     atividadeRecente: 'Последние Действия',
-    escutou: 'Слушал',
+    escutou: 'слушал(а)',
     curtiu: 'понравилось',
     aMusica: 'песня',
 
@@ -39,19 +39,19 @@ let strings = {
     avalieNaGooglePlay: 'Оценить приложение',
     editarPerfil: 'Изменить профиль',
     faleConosco: 'Свяжитесь с нами',
-    comprarVersaoPremium: 'купить Премиум-версию',
-    removerAnuncios: 'Убрат рекламу (Pro)',
+    comprarVersaoPremium: 'Купить Премиум-версию',
+    removerAnuncios: 'Убрать рекламу (Pro)',
 
     //Meus Dados
     sobreVoce: 'О вас',
-    faleUmPoucoSobreVoce: 'Расскажите нам немного о себе',
+    faleUmPoucoSobreVoce: 'Расскажите немного о себе',
     localOndeMora: 'Местонахождение',
     ondeVoceMora: 'Где вы живете?',
     digiteSeuUsername: 'Введите ваше имя пользователя. Например: @backingtracksapp',
     digiteSeuNumeroDeWhatsapp: 'Введите ваш номер WhatsApp',
     linkParaSeuCanalNoYoutube: 'Ссылка на ваш YouTube канал',
     canalNoYoutube: 'Канал YouTube',
-    esteDadoNaoPodeSerEditado: 'Эти данные не мгут быть изменены!',
+    esteDadoNaoPodeSerEditado: 'Эти данные не могут быть изменены!',
 
     // Editar
     salvar: 'Сохранить',
@@ -73,7 +73,7 @@ let strings = {
 
     // Offline
     voceEstaOffline: 'Вы не в сети!',
-    verifiqueASuaConexaoComAInternetETenteNovamente: 'Проверьте соединение с сетью и повторите попытку',
+    verifiqueASuaConexaoComAInternetETenteNovamente: 'Проверьте соединение с Интернет и повторите попытку',
 
     // Login
     toqueSuasMusicasFavoritasComAcompanhamento: 'Играйте выши любимые песни с сопровождением!',
