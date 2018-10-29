@@ -10,7 +10,7 @@ It would be great to find people willing to help with translations into other la
 
 Choose a language and create (if it does not exist) its translation file named according to one of the ISO language codes from the table below. You can also help by improving some existing translation.
 
-### Translated Languages
+### Translated languages
 
 |          Code             |      Name            |     Contributors |
 |-------------------------- | -------------------------- | ---------- |
@@ -42,7 +42,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |zh-CN|Chinese (S)| [@linj2015](https://github.com/linj2015) |
 |zh-TW|Chinese (T)| [@jerry855202](https://github.com/jerry855202) |
 
-### Missing Languages
+### Missing translations
 
 |          Code             |      Name            |
 |-------------------------- | -------------------------- |
