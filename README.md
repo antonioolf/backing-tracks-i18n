@@ -125,7 +125,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |hy|Armenian| |
 |hy-AM|Armenian (Armenia)| |
 |id|Indonesian| |
-|id-ID|Indonesian (Indonesia)| |
+|id-ID|Indonesian (Indonesia)| [@jovanzers](https://github.com/jovanzers) |
 |is|Icelandic| |
 |is-IS|Icelandic (Iceland)| |
 |it|Italian| |
