@@ -26,6 +26,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |fr-CA|French (Canada)|  [@slimjoeX](https://github.com/slimjoeX) |
 |fr-FR|French (France)| [@I-am-me](https://github.com/I-am-me) [@AkdM](https://github.com/AkdM) |
 |hi|Hindi| [@VivekMolkar](https://github.com/VivekMolkar) |
+|hi-In|Hindi (India)| [@devAmoghS](https://github.com/devAmoghS) |
 |id-ID|Indonesian (Indonesia)| [@jovanzers](https://github.com/jovanzers) |
 |ja-JP|Japanese (Japan)| [@slimjoeX](https://github.com/slimjoeX) |
 |ko-KR|Korean (Korea)| [@Bak-JH](https://github.com/Bak-JH) |
@@ -138,7 +139,6 @@ Choose a language and create (if it does not exist) its translation file named a
 |gu-IN|Gujarati (India)|
 |he|Hebrew|
 |he-IL|Hebrew (Israel)|
-|hi-IN|Hindi (India)|
 |hr|Croatian|
 |hr-BA|Croatian (Bosnia and Herzegovina)|
 |hr-HR|Croatian (Croatia)|
