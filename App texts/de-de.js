@@ -16,7 +16,7 @@ let strings = {
     artistasEmDestaque: 'Ausgewählte Künstler',
     atividadeRecente: 'Letzte Aktivität',
     escutou: 'gehört',
-    curtiu: 'geliket',
+    curtiu: 'gelikt',
     aMusica: 'das Lied',
 
     // Nav Bottom
