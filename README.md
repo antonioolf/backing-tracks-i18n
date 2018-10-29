@@ -50,7 +50,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |de|German| |
 |de-AT|German (Austria)| |
 |de-CH|German (Switzerland)| |
-|de-DE|German (Germany)| @tfrommen |
+|de-DE|German (Germany)| [@tfrommen](https://github.com/tfrommen) |
 |de-LI|German (Liechtenstein)| |
 |de-LU|German (Luxembourg)| |
 |dv|Divehi| |
@@ -71,7 +71,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |en-ZA|English (South Africa)| |
 |en-ZW|English (Zimbabwe)| |
 |eo|Esperanto| |
-|es|Spanish| @wuelcas |
+|es|Spanish| [@wuelcas](https://github.com/wuelcas) |
 |es-AR|Spanish (Argentina)| |
 |es-BO|Spanish (Bolivia)| |
 |es-CL|Spanish (Chile)| |
@@ -140,7 +140,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |kn|Kannada| |
 |kn-IN|Kannada (India)| |
 |ko|Korean| |
-|ko-KR|Korean (Korea)| @Bak-JH |
+|ko-KR|Korean (Korea)| [@Bak-JH](https://github.com/Bak-JH) |
 |kok|Konkani| |
 |kok-IN|Konkani (India)| |
 |ky|Kyrgyz| |
