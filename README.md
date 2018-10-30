@@ -22,6 +22,8 @@ Choose a language and create (if it does not exist) its translation file named a
 |es-AR|Spanish (Argentina)| [@cercei](https://github.com/cercei) |
 |es-CO|Spanish (Colombia)| [@juanferrgiraldo](https://github.com/juanferrgiraldo)|
 |es-EC|Spanish (Ecuador)| [@Aguardientico](https://github.com/Aguardientico) |
+|es-ES|Spanish (Castilian)| [@LonelyPrincess](https://github.com/LonelyPrincess)
+|es-ES|Spanish (Spain)| [@LonelyPrincess](https://github.com/LonelyPrincess)
 |es-MX|Spanish (Mexico)| [@MetCoder95](https://github.com/MetCoder95)|
 |fr-CA|French (Canada)|  [@slimjoeX](https://github.com/slimjoeX) |
 |fr-FR|French (France)| [@I-am-me](https://github.com/I-am-me) [@AkdM](https://github.com/AkdM) |
@@ -106,8 +108,6 @@ Choose a language and create (if it does not exist) its translation file named a
 |es-CL|Spanish (Chile)|
 |es-CR|Spanish (Costa Rica)|
 |es-DO|Spanish (Dominican Republic)|
-|es-ES|Spanish (Castilian)|
-|es-ES|Spanish (Spain)|
 |es-GT|Spanish (Guatemala)|
 |es-HN|Spanish (Honduras)|
 |es-NI|Spanish (Nicaragua)|
