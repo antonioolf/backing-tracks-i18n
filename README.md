@@ -14,7 +14,7 @@ Choose a language and create (if it does not exist) its translation file named a
 
 |          Code             |      Name            |     Contributors |
 |-------------------------- | -------------------------- | ---------- |
-|de-DE|German (Germany)| [@tfrommen](https://github.com/tfrommen) [@zilyck](https://github.com/zilyck)|
+|de-DE|German (Germany)| [@tfrommen](https://github.com/tfrommen) [@zilyck](https://github.com/zilyck)[@nl5001](https://github.com/nl5001)|
 |el-GR|Greek (Greece)| [@karate](https://github.com/karate) |
 |en-CA|English (Canada)| [@slimjoeX](https://github.com/slimjoeX)  |
 |en-GB|English (United Kingdom)| [@slimjoeX](https://github.com/slimjoeX)  |
