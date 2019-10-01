@@ -32,6 +32,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |ko-KR|Korean (Korea)| [@Bak-JH](https://github.com/Bak-JH) |
 |lt-LT|Lithuanian (Lithuania)| [@m4rx](https://github.com/m4rx)|
 |mr-IN|Marathi (India)| [@VivekMolkar](https://github.com/VivekMolkar) |
+|nl|Dutch| [@spmvanmierlo](https://github.com/spmvanmierlo) |
 |nb-NO|Norwegian (Bokm?l) (Norway)| [@mahval](https://github.com/mahval)|
 |pl|Polish| [@jotkate](https://github.com/jotkate) |
 |pl-PL|Polish (Poland)| [@oskarwojciski](https://github.com/oskarwojciski) |
@@ -180,7 +181,6 @@ Choose a language and create (if it does not exist) its translation file named a
 |mt|Maltese|
 |mt-MT|Maltese (Malta)|
 |nb|Norwegian (Bokm?l)|
-|nl|Dutch|
 |nl-BE|Dutch (Belgium)|
 |nl-NL|Dutch (Netherlands)|
 |nn-NO|Norwegian (Nynorsk) (Norway)|
