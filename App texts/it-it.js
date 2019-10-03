@@ -36,11 +36,11 @@ let strings = {
     bateria: 'Batteria',
     voz: 'Voce',
     violao: 'Chitarra acustica',
-    avalieNaGooglePlay: 'Vota l'app',
+    avalieNaGooglePlay: 'Vota l\'app',
     editarPerfil: 'Modifica profilo',
     faleConosco: 'Contattaci',
     comprarVersaoPremium: 'Acquista la versione premium',
-    removerAnuncios: 'Timuovi pubblicità (Pro)',
+    removerAnuncios: 'Rimuovi pubblicità (Pro)',
 
     //Meus Dados
     sobreVoce: 'Su di te',
@@ -77,7 +77,7 @@ let strings = {
 
     // Login
     toqueSuasMusicasFavoritasComAcompanhamento: 'Suona i tuoi brani preferiti con accompagnamento!',
-    facaLoginParaAproveitarOMaximoDoAplicativo: 'Registrati per ottenere il massimo dall'app'
+    facaLoginParaAproveitarOMaximoDoAplicativo: 'Registrati per ottenere il massimo dall\'app'
 }
 
 export default strings;
