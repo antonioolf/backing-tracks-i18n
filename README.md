@@ -14,7 +14,7 @@ Choose a language and create (if it does not exist) its translation file named a
 
 |          Code             |      Name            |     Contributors |
 |-------------------------- | -------------------------- | ---------- |
-|de-DE|German (Germany)| [@tfrommen](https://github.com/tfrommen) [@zilyck](https://github.com/zilyck)[@nl5001](https://github.com/nl5001)|
+|de-DE|German (Germany)| [@tfrommen](https://github.com/tfrommen) [@zilyck](https://github.com/zilyck) [@nl5001](https://github.com/nl5001)|
 |el-GR|Greek (Greece)| [@karate](https://github.com/karate) |
 |en-CA|English (Canada)| [@slimjoeX](https://github.com/slimjoeX)  |
 |en-GB|English (United Kingdom)| [@slimjoeX](https://github.com/slimjoeX)  |
@@ -35,6 +35,7 @@ Choose a language and create (if it does not exist) its translation file named a
 |lt-LT|Lithuanian (Lithuania)| [@m4rx](https://github.com/m4rx)|
 |mr-IN|Marathi (India)| [@VivekMolkar](https://github.com/VivekMolkar) |
 |nl-NL|Dutch (Netherlands)| [@spmvanmierlo](https://github.com/spmvanmierlo) |
+|nl|Dutch| [@spmvanmierlo](https://github.com/spmvanmierlo) |
 |nb-NO|Norwegian (Bokm?l) (Norway)| [@mahval](https://github.com/mahval)|
 |pl|Polish| [@jotkate](https://github.com/jotkate) |
 |pl-PL|Polish (Poland)| [@oskarwojciski](https://github.com/oskarwojciski) |
@@ -181,7 +182,6 @@ Choose a language and create (if it does not exist) its translation file named a
 |mt|Maltese|
 |mt-MT|Maltese (Malta)|
 |nb|Norwegian (Bokm?l)|
-|nl|Dutch|
 |nl-BE|Dutch (Belgium)|
 |nl-NL|Dutch (Netherlands)|
 |nn-NO|Norwegian (Nynorsk) (Norway)|
